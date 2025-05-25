@@ -1,6 +1,6 @@
 # Reversed Engineer Bateleur SA Equity Fund
 
-[![GitHub License](https://img.shields.io/github/license/alexndala/bateleur-sa-equity)](LICENSE)
+[![GitHub License](https://img.shields.io/github/alexndala/bateleur-sa-equity/blob/main/LICENSE)](LICENSE)
 [![GitHub Issues](https://img.shields.io/github/issues/alexndala/bateleur-sa-equity)](https://github.com/alexndala/bateleur-sa-equity/issues)
 [![GitHub Stars](https://img.shields.io/github/stars/alexndala/bateleur-sa-equity)](https://github.com/alexndala/bateleur-sa-equity/stargazers)
 
